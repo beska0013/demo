@@ -431,7 +431,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
     
 .bgimage3{
-    height: 68rem;
+    max-height: 68rem;
 }
     
 @media(max-width:768px){
